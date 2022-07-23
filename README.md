@@ -7,4 +7,4 @@ Blueprints are composable so you can reuse your definitions for different contex
 
 Example usage is shown in tests.
 
-Based on the ideas of the [blueprinter](https://github.com/procore/blueprinter) for ruby but more simple and fully typed.
+Based on the ideas of the [blueprinter](https://github.com/procore/blueprinter) for ruby but simpler and fully typed.
